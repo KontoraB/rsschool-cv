@@ -25,3 +25,6 @@ I have experience managing and support accounting system with distributed databa
  - 2019-2020  HTML, CSS, JavaScript courses JSexpert.net
 
 1997-present Private entrepreneur. Self-employed contracted work in the sphere of information automation of companies, working in different fields with 1C accounting system.
+
+## English ##
+A2 (Elementary English)
